@@ -2,7 +2,18 @@
 
 ## 👨‍🏫 Profesor | 💻 Developer | 🤖 Apasionado de la Electrónica & IA
 
-Soy profesor de Formación Profesional en el departamento de Electricidad y Electrónica. La tecnología es mi pasión y disfruto desarrollando proyectos que integran **hardware, software e inteligencia artificial**. Creo firmemente que la electrónica y el software ya no se conciben por separado: ¡juntos pueden cambiar el mundo!
+<table>
+<tr>
+  <td>
+    Soy profesor de Formación Profesional en el departamento de Electricidad y Electrónica. La tecnología es mi pasión y disfruto desarrollando proyectos que integran **hardware, software e inteligencia artificial**. Creo firmemente que la electrónica y el software ya no se conciben por separado: ¡juntos pueden cambiar el mundo!
+  </td>
+  <td>
+    <img src="https://avatars.githubusercontent.com/u/989941699?v=4" width="120" alt="Foto de perfil de Carlos Ferrero Bonet">
+  </td>
+</tr>
+</table>
+
+
 
 ---
 
